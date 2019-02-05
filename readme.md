@@ -1,6 +1,9 @@
 # Funny Tech Talks
-There exist many lists with very informative talks about technology and computer science. This is not one of them. Instead, this list focuses on the funny side of technology - have a look at it yourself.
+There exist many lists with very informative talks about technology and computer science.
+This is not one of them.
+Instead, this list focuses on the funny side of technology - have a look at it yourself.
 Talks where no language is listed are in English.
+
 ## Computer Science
 - [Xerox scanners change numbers](https://www.youtube.com/watch?v=7FeqF1-Z1g0) (German)
 - [Reverse engineering behaviour of online news authors](https://www.youtube.com/watch?v=-YpwsdRKt8Q) (German)
@@ -16,5 +19,6 @@ Hacking facebook in order to meet your girlfriend
 How to irreperably destroy your HardDrive so no data is retrievable
 - [And That's How I Lost My Other Eye](https://www.youtube.com/watch?v=-bpX8YvNg6Y)
 The same goal as the talk above but with more explosives
+
 ## Other
 - [The Art of Trolling](https://www.youtube.com/watch?v=AHqGV5WjS4w)
