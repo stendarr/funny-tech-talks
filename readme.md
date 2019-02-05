@@ -31,7 +31,10 @@ Talks where no language is listed are in English.
 - [The Art of Trolling](https://www.youtube.com/watch?v=AHqGV5WjS4w)
 - [Die Kunst des Trollens](https://www.youtube.com/watch?v=jOhWZOn_IWY) (German)
 
+
 ## Series
+These talks have the same format and are (anually) recurring.
+
 ### CCC Hacker Jeopardy (German)
 Normal Jeopardy with the only difference that it's good
 - [34C3](https://www.youtube.com/watch?v=hzoABukGVHE)
