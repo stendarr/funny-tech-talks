@@ -31,5 +31,5 @@ How Clojure saved {{company}} and transformed our {{noun}}!
 Talks about recent security issues and and speculation about the future
 ### Methodisch Inkorrekt (German)
 Talks with funny but methodically incorrect science
-- [https://www.youtube.com/watch?v=6u7S5qeH86w](33C3)
-- [https://www.youtube.com/watch?v=rf9X-jyJq4w](34C3)
+- [33C3](https://www.youtube.com/watch?v=6u7S5qeH86w)
+- [34C3](https://www.youtube.com/watch?v=rf9X-jyJq4w)
