@@ -34,13 +34,23 @@ Talks where no language is listed are in English.
 ## Series
 ### CCC Hacker Jeopardy (German)
 Normal Jeopardy with the only difference that it's good
+- [34C3](https://www.youtube.com/watch?v=hzoABukGVHE)
+
 ### CCC Security Nightmares (German)
 Talks about recent security issues and and speculation about the future
+- [29C3](https://www.youtube.com/watch?v=_0O2HLVDxCQ)
+- [30C3](https://www.youtube.com/watch?v=q-tcvBFFnkI)
+- [31C3](https://www.youtube.com/watch?v=Ye2RDjy1b3M)
+- [32C3](https://www.youtube.com/watch?v=jq-u1fWNLsc)
+- [33C3](https://www.youtube.com/watch?v=d_oLOHM64J0)
+- [34C3](https://www.youtube.com/watch?v=3stPAi455fM)
+
 ### CCC Methodisch Inkorrekt (German)
 Talks with funny but methodically incorrect science
 - [33C3](https://www.youtube.com/watch?v=6u7S5qeH86w)
 - [34C3](https://www.youtube.com/watch?v=rf9X-jyJq4w)
+
 ### Defcon Hacker Jeopardy
 Normal Jeopardy with the only difference that it's good
-### Defcon Security Jam
-### Defcon Comedy Jam
+- [Defcon 22](https://www.youtube.com/watch?v=3_5rO3abWoM)
+
