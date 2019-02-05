@@ -47,6 +47,7 @@ Talks about recent security issues and and speculation about the future
 - [32C3](https://www.youtube.com/watch?v=jq-u1fWNLsc)
 - [33C3](https://www.youtube.com/watch?v=d_oLOHM64J0)
 - [34C3](https://www.youtube.com/watch?v=3stPAi455fM)
+- [35C3](https://www.youtube.com/watch?v=9AEP0av6ca8)
 
 ### CCC Methodisch Inkorrekt (German)
 Talks with funny but methodically incorrect science
