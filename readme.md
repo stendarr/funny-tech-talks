@@ -32,7 +32,7 @@ Talks where no language is listed are in English.
 - [Die Kunst des Trollens](https://www.youtube.com/watch?v=jOhWZOn_IWY) (German)
 
 ## Series
-### CCC Hacker Jeopardy
+### CCC Hacker Jeopardy (German)
 Normal Jeopardy with the only difference that it's good
 ### CCC Security Nightmares (German)
 Talks about recent security issues and and speculation about the future
