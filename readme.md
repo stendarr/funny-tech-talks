@@ -29,10 +29,11 @@ How Clojure saved {{company}} and transformed our {{noun}}!
 
 ## Other
 - [The Art of Trolling](https://www.youtube.com/watch?v=AHqGV5WjS4w)
-- [Die Kunst des Trollens](https://www.youtube.com/watch?v=jOhWZOn_IWY)
+- [Die Kunst des Trollens](https://www.youtube.com/watch?v=jOhWZOn_IWY) (German)
 
 ## Series
 ### CCC Hacker Jeopardy
+Normal Jeopardy with the only difference that it's good
 ### CCC Security Nightmares (German)
 Talks about recent security issues and and speculation about the future
 ### CCC Methodisch Inkorrekt (German)
@@ -40,5 +41,6 @@ Talks with funny but methodically incorrect science
 - [33C3](https://www.youtube.com/watch?v=6u7S5qeH86w)
 - [34C3](https://www.youtube.com/watch?v=rf9X-jyJq4w)
 ### Defcon Hacker Jeopardy
+Normal Jeopardy with the only difference that it's good
 ### Defcon Security Jam
 ### Defcon Comedy Jam
