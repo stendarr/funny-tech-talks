@@ -19,6 +19,8 @@ Hacking facebook in order to meet your girlfriend
 How to irreperably destroy your HardDrive so no data is retrievable
 - [And That's How I Lost My Other Eye](https://www.youtube.com/watch?v=-bpX8YvNg6Y)
 The same goal as the talk above but with more explosives
+- [Every Clojure talk Ever](https://www.youtube.com/watch?v=jlPaby7suOc)
+How Clojure saved {{company}} and transformed our {{noun}}!
 
 ## Other
 - [The Art of Trolling](https://www.youtube.com/watch?v=AHqGV5WjS4w)
