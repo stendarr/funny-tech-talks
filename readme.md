@@ -24,3 +24,12 @@ How Clojure saved {{company}} and transformed our {{noun}}!
 
 ## Other
 - [The Art of Trolling](https://www.youtube.com/watch?v=AHqGV5WjS4w)
+- [Die Kunst des Trollens](https://www.youtube.com/watch?v=jOhWZOn_IWY)
+
+## Series
+### Security Nightmares (German)
+Talks about recent security issues and and speculation about the future
+### Methodisch Inkorrekt (German)
+Talks with funny but methodically incorrect science
+- [https://www.youtube.com/watch?v=6u7S5qeH86w](33C3)
+- [https://www.youtube.com/watch?v=rf9X-jyJq4w](34C3)
