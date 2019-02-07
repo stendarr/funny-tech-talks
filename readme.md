@@ -1,7 +1,7 @@
 # Funny Tech Talks
 There exist many lists with very informative talks about technology and computer science.
 This is not one of them.
-Instead, this list focuses on the funny side of technology - for when you just want to enjoy some good banter.
+Instead, this list focuses on the funny side of technology - for when you just want to enjoy some proper banter.
 Talks where no language is listed are in English.
 
 ## Computer Science
@@ -11,8 +11,9 @@ Talks where no language is listed are in English.
 <br>Hacking facebook in order to meet your girlfriend
 - [And Thats How I Lost My Eye](https://www.youtube.com/watch?v=Tr7qnX3S2KA) _2013_
 <br>How to irreperably destroy your HardDrive so no data is retrievable
+- [Möchten Sie vielleicht Pommes zu den Pommes?](https://www.youtube.com/watch?v=6-TpRmQtVEI) _2014_ (German)
 - [And That's How I Lost My Other Eye](https://www.youtube.com/watch?v=-bpX8YvNg6Y) _2015_
-<br>The same goal as the talk above but with more explosives
+<br>The same goal as the other talk but with more explosives
 - [Knocking my neighbors kids cruddy drone offline](https://www.youtube.com/watch?v=5CzURm7OpAA) _2015_
 - [Psychological Warfare in Reverse Engineering](https://www.youtube.com/watch?v=HlUe0TUHOIc) _2015_
 <br>Making pictures with IDA control flow graphs
