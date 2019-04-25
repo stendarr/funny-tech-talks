@@ -38,7 +38,8 @@ These talks have the same format and are (anually) recurring.
 
 ### CCC Hacker Jeopardy (German)
 Normal Jeopardy with the only difference that it's good
-- [34C3](https://www.youtube.com/watch?v=hzoABukGVHE) (Published: 2017)
+- [29C3](https://www.youtube.com/watch?v=t3faBggEv2U) _2012_
+- [34C3](https://www.youtube.com/watch?v=hzoABukGVHE) _2017_
 
 ### CCC Security Nightmares (German)
 Talks about recent security issues and and speculation about the future
@@ -57,5 +58,6 @@ Talks with funny but methodically incorrect science
 
 ### Defcon Hacker Jeopardy
 Normal Jeopardy with the only difference that it's good
+- [Defcon 20](https://www.youtube.com/watch?v=dkd57J93BKI) _2012_
 - [Defcon 22](https://www.youtube.com/watch?v=3_5rO3abWoM) _2014_
 
