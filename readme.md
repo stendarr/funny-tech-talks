@@ -40,6 +40,7 @@ These talks have the same format and are (anually) recurring.
 Normal Jeopardy with the only difference that it's good
 - [29C3](https://www.youtube.com/watch?v=t3faBggEv2U) _2012_
 - [34C3](https://www.youtube.com/watch?v=hzoABukGVHE) _2017_
+- [36C3](https://media.ccc.de/v/36c3-11177-hacker_jeopardy) _2019_
 
 ### CCC Security Nightmares (German)
 Talks about recent security issues and and speculation about the future
@@ -50,6 +51,7 @@ Talks about recent security issues and and speculation about the future
 - [33C3](https://www.youtube.com/watch?v=d_oLOHM64J0) _2016_
 - [34C3](https://www.youtube.com/watch?v=3stPAi455fM) _2017_
 - [35C3](https://www.youtube.com/watch?v=9AEP0av6ca8) _2018_
+- [36C3](https://media.ccc.de/v/36c3-11164-security_nightmares_0x14) _2019_
 
 ### CCC Methodisch Inkorrekt (German)
 Talks with funny but methodically incorrect science
