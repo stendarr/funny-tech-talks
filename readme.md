@@ -28,8 +28,14 @@ Talks where no language is listed are in English.
 <br>Analyzing hundreds of thousands of online news articles
 - [Every Clojure talk Ever](https://www.youtube.com/watch?v=jlPaby7suOc) _2018_
 <br>How Clojure saved {{company}} and transformed our {{noun}}!
+- [Du kannst alles hacken – du darfst dich nur nicht erwischen lassen](https://media.ccc.de/v/35c3-9716-du_kannst_alles_hacken_du_darfst_dich_nur_nicht_erwischen_lassen) _2018_ (german)
+<br> A talk about OpSec and not fucking it up
 - [BahnMining](https://media.ccc.de/v/36c3-10652-bahnmining_-_punktlichkeit_ist_eine_zier) _2019_ (German)
 <br>Mining data from the German railway company _Deutsche Bahn_ to expose their handling of delays
+- [Hacking the Media: Geflüchtete schmuggeln, Nazis torten, Pässe fälschen](https://media.ccc.de/v/36c3-10541-hacking_the_media_gefluchtete_schmuggeln_nazis_torten_passe_falschen) _2019_ (German)
+<br> Why civil disobedience and subversion are more important than ever
+
+
 
 
 ## Other
