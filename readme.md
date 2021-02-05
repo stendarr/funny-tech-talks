@@ -5,7 +5,8 @@ Instead, this list focuses on the funny side of technology - for when you just w
 Talks where no language is listed are in English.
 
 ## Computer Science
-- [What Happens When You Steal A Hacker's Computer](https://www.youtube.com/watch?v=Jwpg-AwJ0Jc) _2013_
+- [What Happens When You Steal A Hacker's Computer (Part 1 of 2)](https://www.youtube.com/watch?v=OAI8S2houW4) _2013_
+- [What Happens When You Steal A Hacker's Computer (Part 2 of 2)](https://www.youtube.com/watch?v=PSTFP6BYXAE) _2013_
 - [Forensic Fails](https://www.youtube.com/watch?v=NG9Cg_vBKOg) _2013_
 - [How I Met Your Girlfriend](https://www.youtube.com/watch?v=_pQ4_AH6vks) _2013_
 <br>Hacking facebook in order to meet your girlfriend
