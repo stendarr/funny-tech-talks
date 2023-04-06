@@ -40,6 +40,8 @@ Talks where no language is listed are in English.
 
 
 ## Other
+- [That Awesome Time I Was Sued For Two Billion Dollars](https://www.youtube.com/watch?v=KSWqx8goqSY) _2009_
+- [Steal Everything, Kill Everyone, Cause Total Financial Ruin!](https://www.youtube.com/watch?v=JsVtHqICeKE) _2011_
 - [The Art of Trolling](https://www.youtube.com/watch?v=AHqGV5WjS4w) _2012_
 - [Die Kunst des Trollens](https://www.youtube.com/watch?v=jOhWZOn_IWY) _2015_ (German)
 
@@ -97,3 +99,10 @@ Normal Jeopardy with the only difference that it's good
 - [Defcon 20](https://www.youtube.com/watch?v=dkd57J93BKI) _2012_
 - [Defcon 22](https://www.youtube.com/watch?v=3_5rO3abWoM) _2014_
 
+### Defcon Fail Panel
+- [Defcon 18](https://www.youtube.com/watch?v=t7JoaRR6UwE) _2010_
+- [Defcon 19](https://www.youtube.com/watch?v=ElluJuXkopM) _2011_
+- [Defcon 20](https://www.youtube.com/watch?v=7Ny_uaSZhiE) _2012_
+- [Defcon 21](https://www.youtube.com/watch?v=Qnqyxjtm9RA) _2013_
+- [Defcon 22](https://www.youtube.com/watch?v=KmDvrxo2SmM) _2014_
+- [Defcon 23](https://www.youtube.com/watch?v=XA1h8L5S9I4) _2015_ 
