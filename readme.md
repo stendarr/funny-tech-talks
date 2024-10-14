@@ -19,6 +19,7 @@ Talks where no language is listed are in English.
 - [Psychological Warfare in Reverse Engineering](https://www.youtube.com/watch?v=HlUe0TUHOIc) _2015_
 <br>Making pictures with IDA control flow graphs
 - [115 batshit stupid things you can put on the internet](https://www.youtube.com/watch?v=5xJXJ9pTihM) _2015_
+<br> Part of the Defcon 23 Fail Panel
 - [Don't fuck it up](https://www.youtube.com/watch?v=J1q4Ir2J8P8) _2015_
 <br>A talk about how to fail in OpSec
 - [Traue keinem Scan, den du nicht selbst gefälscht hast](https://media.ccc.de/v/31c3_-_6558_-_de_-_saal_g_-_201412282300_-_traue_keinem_scan_den_du_nicht_selbst_gefalscht_hast_-_david_kriesel) _2015_ (German)
@@ -68,7 +69,7 @@ Normal Jeopardy with the only difference that it's good
 - [36C3](https://media.ccc.de/v/36c3-11177-hacker_jeopardy) _2019_
 
 ### CCC Security Nightmares (German)
-Talks about recent security issues and and speculation about the future
+Talks about recent security issues and speculation about the future
 - [19C3](https://media.ccc.de/v/19C3-434-security-nightmares) _2002_
 - [20C3](https://media.ccc.de/v/20C3-609-Security_Nightmares_III) _2003_
 - [22C3](https://media.ccc.de/v/22C3-600-de-security_nightmares) _2005_
@@ -98,6 +99,8 @@ Talks with funny but methodically incorrect science
 Normal Jeopardy with the only difference that it's good
 - [Defcon 20](https://www.youtube.com/watch?v=dkd57J93BKI) _2012_
 - [Defcon 22](https://www.youtube.com/watch?v=3_5rO3abWoM) _2014_
+- [Defcon 32 Night 1](https://www.youtube.com/watch?v=jfX4YIWScoo) _2024_
+- [Defcon 32 Night 2](https://www.youtube.com/watch?v=yTDCt4rvR7s) _2024_
 
 ### Defcon Fail Panel
 - [Defcon 18](https://www.youtube.com/watch?v=t7JoaRR6UwE) _2010_
@@ -105,4 +108,4 @@ Normal Jeopardy with the only difference that it's good
 - [Defcon 20](https://www.youtube.com/watch?v=7Ny_uaSZhiE) _2012_
 - [Defcon 21](https://www.youtube.com/watch?v=Qnqyxjtm9RA) _2013_
 - [Defcon 22](https://www.youtube.com/watch?v=KmDvrxo2SmM) _2014_
-- [Defcon 23](https://www.youtube.com/watch?v=XA1h8L5S9I4) _2015_ 
+- [Defcon 23](https://www.youtube.com/watch?v=XA1h8L5S9I4) _2015_
