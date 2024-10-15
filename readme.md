@@ -50,6 +50,9 @@ Talks where no language is listed are in English.
 ## Series
 These talks have the same format and are (anually) recurring.
 
+### CCC Fnord-Jahresrückblick
+- [37C3](https://media.ccc.de/v/37c3-11933-fnord-jahresruckblick-ruckblick) _2023_
+
 ### CCC Hacker Jeopardy (German)
 Normal Jeopardy with the only difference that it's good
 - [20C3](https://media.ccc.de/v/20C3-611-Hacker_Jeopardy) _2003_
