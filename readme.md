@@ -51,6 +51,8 @@ Talks where no language is listed are in English.
 These talks have the same format and are (anually) recurring.
 
 ### CCC Fnord-Jahresrückblick
+- [32C3](https://media.ccc.de/v/32c3-7282-fnord-jahresruckblick)
+- [33C3](https://media.ccc.de/v/33c3-7960-fnord-jahresruckblick)
 - [37C3](https://media.ccc.de/v/37c3-11933-fnord-jahresruckblick-ruckblick) _2023_
 
 ### CCC Hacker Jeopardy (German)
@@ -112,3 +114,8 @@ Normal Jeopardy with the only difference that it's good
 - [Defcon 21](https://www.youtube.com/watch?v=Qnqyxjtm9RA) _2013_
 - [Defcon 22](https://www.youtube.com/watch?v=KmDvrxo2SmM) _2014_
 - [Defcon 23](https://www.youtube.com/watch?v=XA1h8L5S9I4) _2015_
+
+### Defcon Whose Slide is it Anyway?
+- [Defcon SAFE MODE Part 1 of 2](https://www.youtube.com/watch?v=00njwXnHAnY) _2020_
+- [Defcon SAFE MODE Part 2 of 2](https://www.youtube.com/watch?v=vVC5SzYW3eU) _2020_
+- [Defcon 32](https://www.youtube.com/watch?v=WZJJgkftzOs) _2024_
