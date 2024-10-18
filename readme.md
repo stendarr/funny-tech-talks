@@ -50,7 +50,8 @@ Talks where no language is listed are in English.
 ## Series
 These talks have the same format and are (anually) recurring.
 
-### CCC Fnord-Jahresrückblick
+### CCC Fnord-Jahresrückblick (German)
+The past year in review
 - [32C3](https://media.ccc.de/v/32c3-7282-fnord-jahresruckblick) _2015_
 - [33C3](https://media.ccc.de/v/33c3-7960-fnord-jahresruckblick) _2016_
 - [37C3](https://media.ccc.de/v/37c3-11933-fnord-jahresruckblick-ruckblick) _2023_
@@ -116,6 +117,7 @@ Normal Jeopardy with the only difference that it's good
 - [Defcon 23](https://www.youtube.com/watch?v=XA1h8L5S9I4) _2015_
 
 ### Defcon Whose Slide is it Anyway?
+Also known as powerpoint karaoke
 - [Defcon SAFE MODE Part 1 of 2](https://www.youtube.com/watch?v=00njwXnHAnY) _2020_
 - [Defcon SAFE MODE Part 2 of 2](https://www.youtube.com/watch?v=vVC5SzYW3eU) _2020_
 - [Defcon 32](https://www.youtube.com/watch?v=WZJJgkftzOs) _2024_
