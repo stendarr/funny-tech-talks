@@ -78,6 +78,7 @@ Normal Jeopardy with the only difference that it's good
 - [32C3](https://media.ccc.de/v/32c3-7152-hacker_jeopardy) _2015_
 - [34C3](https://media.ccc.de/v/34c3-9007-hacker_jeopardy) _2017_
 - [36C3](https://media.ccc.de/v/36c3-11177-hacker_jeopardy) _2019_
+- [38C3](https://media.ccc.de/v/38c3-hacker-jeopardy) _2024_
 
 ### CCC Security Nightmares (German)
 Talks about recent security issues and speculation about the future
@@ -98,6 +99,8 @@ Talks about recent security issues and speculation about the future
 - [34C3](https://media.ccc.de/v/34c3-8888-security_nightmares_0x12) _2017_
 - [35C3](https://media.ccc.de/v/35c3-9685-security_nightmares_0x13) _2018_
 - [36C3](https://media.ccc.de/v/36c3-11164-security_nightmares_0x14) _2019_
+- [37C3](https://media.ccc.de/v/37c3-12224-security_nightmares) _2023_
+- [38C3](https://media.ccc.de/v/38c3-security-nightmares) _2024_
 - [39C3](https://media.ccc.de/v/39c3-security-nightmares) _2025_
 
 ### CCC Methodisch Inkorrekt (German)
