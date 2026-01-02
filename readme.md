@@ -50,6 +50,8 @@ Talks where no language is listed are in English.
 - [Die Kunst des Trollens](https://www.youtube.com/watch?v=jOhWZOn_IWY) _2015_ (German)
 - [Zentrum für Politische Schönheit: Ein Jahr Adenauer SRP+](https://media.ccc.de/v/39c3-zps-ein-jahr-adenauer-srp-und-mehr) _2025_ (German)
 <br> Protesting on a level even the French would get jealous of
+- [Gegenmacht - Best of Informationsfreiheit](https://media.ccc.de/v/39c3-gegenmacht-best-of-informationsfreiheit) _2025_ (German)
+
 
 
 ## Series
