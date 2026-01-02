@@ -36,7 +36,10 @@ Talks where no language is listed are in English.
 <br>Mining data from the German railway company _Deutsche Bahn_ to expose their handling of delays
 - [Hacking the Media: Geflüchtete schmuggeln, Nazis torten, Pässe fälschen](https://media.ccc.de/v/36c3-10541-hacking_the_media_gefluchtete_schmuggeln_nazis_torten_passe_falschen) _2019_ (German)
 <br> Why civil disobedience and subversion are more important than ever
-
+- [Die Känguru-Rebellion: Digital Independence Day](https://media.ccc.de/v/39c3-die-kanguru-rebellion-digital-independence-day) _2025_ (German)
+<br> Author Marc-Uwe Kling creates the Digital Independence Day
+- [Och Menno – IT und IT Security Uppsis]([https://media.ccc.de/v/39c3-die-kanguru-rebellion-digital-independence-day](https://media.ccc.de/v/39c3-och-menno-it-und-it-security-uppsis)) _2025_ (German)
+<br> The incompetent podcast about incompetence in IT and IT Security
 
 
 
@@ -45,6 +48,8 @@ Talks where no language is listed are in English.
 - [Steal Everything, Kill Everyone, Cause Total Financial Ruin!](https://www.youtube.com/watch?v=JsVtHqICeKE) _2011_
 - [The Art of Trolling](https://www.youtube.com/watch?v=AHqGV5WjS4w) _2012_
 - [Die Kunst des Trollens](https://www.youtube.com/watch?v=jOhWZOn_IWY) _2015_ (German)
+- [Zentrum für Politische Schönheit: Ein Jahr Adenauer SRP+](https://media.ccc.de/v/39c3-zps-ein-jahr-adenauer-srp-und-mehr) _2025_ (German)
+<br> Protesting on a level even the French would get jealous of
 
 
 ## Series
@@ -93,6 +98,7 @@ Talks about recent security issues and speculation about the future
 - [34C3](https://media.ccc.de/v/34c3-8888-security_nightmares_0x12) _2017_
 - [35C3](https://media.ccc.de/v/35c3-9685-security_nightmares_0x13) _2018_
 - [36C3](https://media.ccc.de/v/36c3-11164-security_nightmares_0x14) _2019_
+- [39C3](https://media.ccc.de/v/39c3-security-nightmares) _2025_
 
 ### CCC Methodisch Inkorrekt (German)
 Talks with funny but methodically incorrect science
