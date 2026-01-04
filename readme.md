@@ -62,6 +62,7 @@ The past year in review
 - [32C3](https://media.ccc.de/v/32c3-7282-fnord-jahresruckblick) _2015_
 - [33C3](https://media.ccc.de/v/33c3-7960-fnord-jahresruckblick) _2016_
 - [37C3](https://media.ccc.de/v/37c3-11933-fnord-jahresruckblick-ruckblick) _2023_
+- [38C3](https://media.ccc.de/v/38c3-fnord-nachrichtenrckblick-2024) _2024_
 
 ### CCC Hacker Jeopardy (German)
 Normal Jeopardy with the only difference that it's good
