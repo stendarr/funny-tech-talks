@@ -40,6 +40,8 @@ Talks where no language is listed are in English.
 <br> Dark Caracal's hilarious mistakes
 - [Die Känguru-Rebellion: Digital Independence Day](https://media.ccc.de/v/39c3-die-kanguru-rebellion-digital-independence-day) _2025_ (German)
 <br> Author Marc-Uwe Kling creates the Digital Independence Day
+- [The Heartbreak Machine: Nazis in the Echo Chamber](https://media.ccc.de/v/39c3-the-heartbreak-machine-nazis-in-the-echo-chamber) _2025_ (German)
+<br> Using OSINT to pwn a white supremacist dating site
 - [Och Menno – IT und IT Security Uppsis](https://media.ccc.de/v/39c3-och-menno-it-und-it-security-uppsis) _2025_ (German)
 <br> The incompetent podcast about incompetence in IT and IT Security
 
