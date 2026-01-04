@@ -59,6 +59,17 @@ These talks have the same format and are (anually) recurring.
 
 ### CCC Fnord-Jahresrückblick (German)
 The past year in review
+- [20C3](https://media.ccc.de/v/20C3-633-Fnord_Jahresrueckschau) _2003_
+- [21C3](https://media.ccc.de/v/070_Fnord-Jahresrueckblick) _2004_
+- [22C3](https://media.ccc.de/v/22C3-601-de-fnord_jahresrueckblick) _2005_
+- [23C3](https://media.ccc.de/v/23C3-1429-de-fnord_jahresrueckblick) _2006_
+- [25C3](https://media.ccc.de/v/25c3-2812-de-fnord_news_show) _2008_
+- [26C3](https://media.ccc.de/v/26c3-3613-de-fnord-jahresrckblick_2009) _2009_
+- [27C3](https://media.ccc.de/v/27c3-4070-de-fnord_jahresrueckblick) _2010_
+- [28C3](https://media.ccc.de/v/28c3-4866-de-fnord_jahresrueckblick) _2011_
+- [29C3](https://media.ccc.de/v/29c3-5198-en-de-fnord_jahresrueckblick2012_h264) _2012_
+- [30C3](https://media.ccc.de/v/30C3_-_5490_-_de_-_saal_1_-_201312300000_-_fnord_news_show_-_frank_-_fefe) _2013_
+- [31C3](https://media.ccc.de/v/31c3_-_6109_-_de_-_saal_1_-_201412290015_-_fnord_news_show_-_frank_-_fefe) _2014_
 - [32C3](https://media.ccc.de/v/32c3-7282-fnord-jahresruckblick) _2015_
 - [33C3](https://media.ccc.de/v/33c3-7960-fnord-jahresruckblick) _2016_
 - [37C3](https://media.ccc.de/v/37c3-11933-fnord-jahresruckblick-ruckblick) _2023_
@@ -106,8 +117,9 @@ Talks about recent security issues and speculation about the future
 - [38C3](https://media.ccc.de/v/38c3-security-nightmares) _2024_
 - [39C3](https://media.ccc.de/v/39c3-security-nightmares) _2025_
 
-### CCC Methodisch Inkorrekt (German)
-Talks with funny but methodically incorrect science
+### Methodisch Inkorrekt (German)
+Talks with funny but methodically incorrect science by two podcasters[^1].
+[^1]: You can find their podcast [here](https://minkorrekt.de/) or wherevere you get your podcasts.
 - [31C3](https://media.ccc.de/v/1013) _2014_
 - [32C3](https://media.ccc.de/v/32c3-7221-methodisch_inkorrekt) _2015_
 - [33C3](https://media.ccc.de/v/33c3-8020-methodisch_inkorrekt) _2016_
