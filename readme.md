@@ -36,6 +36,8 @@ Talks where no language is listed are in English.
 <br>Mining data from the German railway company _Deutsche Bahn_ to expose their handling of delays
 - [Hacking the Media: Geflüchtete schmuggeln, Nazis torten, Pässe fälschen](https://media.ccc.de/v/36c3-10541-hacking_the_media_gefluchtete_schmuggeln_nazis_torten_passe_falschen) _2019_ (German)
 <br> Why civil disobedience and subversion are more important than ever
+- [Tracking the Worlds Dumbest Cyber Mercenaries](https://www.youtube.com/watch?v=zccAvgC4UxU) _2023_
+<br> Dark Caracal's hilarious mistakes
 - [Die Känguru-Rebellion: Digital Independence Day](https://media.ccc.de/v/39c3-die-kanguru-rebellion-digital-independence-day) _2025_ (German)
 <br> Author Marc-Uwe Kling creates the Digital Independence Day
 - [Och Menno – IT und IT Security Uppsis](https://media.ccc.de/v/39c3-och-menno-it-und-it-security-uppsis) _2025_ (German)
@@ -128,9 +130,12 @@ Talks with funny but methodically incorrect science by two podcasters[^1].
 ### Defcon Hacker Jeopardy
 Normal Jeopardy with the only difference that it's good
 - [Defcon 20](https://www.youtube.com/watch?v=dkd57J93BKI) _2012_
-- [Defcon 22](https://www.youtube.com/watch?v=3_5rO3abWoM) _2014_
+- [Defcon 22 Night 1](https://www.youtube.com/watch?v=3_5rO3abWoM) _2014_
+- [Defcon 22 Night 2](https://www.youtube.com/watch?v=po9Cy0xaK9c) _2014_
 - [Defcon 32 Night 1](https://www.youtube.com/watch?v=jfX4YIWScoo) _2024_
 - [Defcon 32 Night 2](https://www.youtube.com/watch?v=yTDCt4rvR7s) _2024_
+- [Defcon 33 Friday](https://www.youtube.com/watch?v=G6WNcAK29hw) _2025_
+- [Defcon 33 Saturday](https://www.youtube.com/watch?v=5gGUh9-oPhk) _2025_
 
 ### Defcon Fail Panel
 - [Defcon 18](https://www.youtube.com/watch?v=t7JoaRR6UwE) _2010_
